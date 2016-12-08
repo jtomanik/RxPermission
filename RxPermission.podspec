@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Source/*.swift'
   s.dependency 'Permission'
   s.dependency 'RxSwift'
+  s.dependency 'RxCocoa'
 end
